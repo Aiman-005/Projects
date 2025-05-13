@@ -1,0 +1,57 @@
+Hi Manager aiman!, you're logged in.
+
+Manager aiman selected to view bookings
+Bookings made are:
+		Login/Signup
+
+ACCOUNT CREATED SUCCESSFULLY! 
+
+WELCOME ON BOARD aiman!
+
+USER:
+
+Email:aiman@gmail.com
+
+Username:aiman
+
+
+
+		BOOKING Flights		
+
+
+
+User aiman selected One-Way Flight
+
+
+
+-----One-Way Flight Booking-----
+
+
+
+
+
+Total Cost for 1 Adults and 2 Children: PKR 30000
+
+User aiman one way flight has been successfully booked
+
+User aiman selected departure city Islamabad and Destination city Lahore,Departing on 3/4/2024.
+
+
+
+Selected the Flight AirBlue Business 15000
+
+Flight was booked for 1 Adults and 2 Children
+
+
+
+User aiman booking is now confirmed!
+
+User aiman selected HOTEL X-BudgetFriendly-PKR 7000/night in Lahore for 2 nights to stay
+
+
+
+Opened: Mon Nov 25 18:22:44 2024
+
+
+
+
